@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello everyone, my name is Vadim!
 
 <!--
 **Vadim-Vatrya/Vadim-Vatrya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
